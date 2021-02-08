@@ -1,9 +1,5 @@
 
-/*
-James Blaker / james_blaker@my.cuesta.edu
-CIS 232 / Scovil
-Lab 4
-*/
+
 import java.util.*;
 
 public class L4JBlaRegOct extends Shape {
