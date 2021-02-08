@@ -1,5 +1,4 @@
-# James Blaker - Assignment 1 - change-0-Matic
-print ("James Blaker - Assignment 1 - change-0-Matic")
+
 x = float(input("please enter dollars only. The next prompt after this will be for cents"))
 
 
