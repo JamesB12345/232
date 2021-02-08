@@ -1,6 +1,4 @@
-// James Blaker
-// Assignment 3
-// CIS 231
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
